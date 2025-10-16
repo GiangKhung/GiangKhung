@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Giang.
+# 👋 Hello there! I'm ZangZy.
 
 <!-- Optional: Add a cool banner image here!
      You can create one on Canva (e.g., 1280x300px) or find generic tech banners.
