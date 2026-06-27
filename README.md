@@ -1,55 +1,99 @@
-# 👋 Hello there! I'm GiangKhung.
+# 👋 Hello there! I'm Giang (GiangKhung)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Full%20Stack%20Developer&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Building%20the%20future%20with%20Code&descSize=20&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hoàng%20Giang&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
 </p>
 
 ## 💫 About Me
 
-I'm a passionate student currently diving deep into the world of **Software Engineering**. My journey in tech is driven by a fascination for creating impactful web applications and solving real-world problems through code. I specialize in building scalable web applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
+I am a passionate **Software Engineering** student and a dedicated **Full Stack Developer**. I specialize in building high-performance web applications using **Next.js** & **Node.js**, creating cross-platform mobile apps with **React Native (Expo)**, and designing secure, scalable databases. 
 
-*   🌱 I’m currently focusing on: **Advanced React Patterns, Microservices Architecture, and AI Integration**.
-*   🚀 I'm particularly excited about: **Artificial Intelligence in Web Dev, Cloud Native Technologies, and System Design**.
-*   👯 I’m looking to collaborate on: **Open-source MERN stack projects and innovative web platforms**.
-*   💬 Ask me about: **JavaScript, React Hooks, RESTful APIs, and Database Design**.
+Recently, I built **GaraTP** — a complete digital ecosystem for automotive garage management featuring an AI-driven diagnostic assistant powered by Google Gemini.
+
+*   🌱 I’m currently focusing on: **Advanced React & Next.js Patterns, Microservices, and AI Integrations (LLMs)**.
+*   🚀 I'm passionate about: **Artificial Intelligence, Cloud-Native Architectures, and Clean Code Practices**.
+*   💬 Ask me about: **TypeScript, React/Next.js, React Native, Database Design (Prisma/SQL/NoSQL)**.
 *   📫 How to reach me: [hoanggiang2004tv@gmail.com](mailto:hoanggiang2004tv@gmail.com)
-*   ⚡ Fun fact: **I love turning complex logic into simple, elegant code.**
+*   ⚡ Fun fact: **I love turning complex business logic into smooth, user-friendly digital products.**
 
 ---
 
 ## 💻 My Tech Universe
 
-I believe in choosing the right tool for the job. Here are the technologies I work with most frequently:
-
-**Core Languages:**
+### 🛠️ Languages & Core Technologies
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
 </p>
 
-**Frontend Development:**
+### 🌐 Frontend & Mobile Development
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  </a>
 </p>
 
-**Backend & Database:**
+### ⚙️ Backend, ORM & Databases
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Prisma-39827F?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  </a>
 </p>
 
-**Tools & DevOps:**
+### 🤖 AI, DevOps & Tools
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gemini_AI-blue?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </a>
 </p>
 
 ---
@@ -68,7 +112,7 @@ I believe in choosing the right tool for the job. Here are the technologies I wo
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing.
+I'm always open to discussing new projects, collaboration opportunities, or innovative tech ideas.
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -83,6 +127,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=GiangKhung&icon=5&color=10" />
+    <img src="https://visitcount.itsvg.in/api?id=GiangKhung&icon=5&color=10" alt="Visitor Count"/>
   </a>
 </p>
