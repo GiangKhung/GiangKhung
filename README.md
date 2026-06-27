@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Giang (GiangKhung)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hoàng%20Giang&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Giang%20Truong&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
 </p>
 
 ## 💫 About Me
